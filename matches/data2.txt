@@ -1,0 +1,1391 @@
+=======================
+1. Country names longer than 10 characters: 
+Afghanistan
+Antigua and Barbuda
+Bosnia and Herzegovina
+Burkina Faso
+Central African Republic
+Congo, Democratic Republic of the
+Congo, Republic of the
+Cote d'Ivoire (Ivory Coast)
+Czech Republic (Czechia)
+Dominican Republic
+El Salvador
+Equatorial Guinea
+Eswatini (Swaziland)
+Federated States of Micronesia
+Guinea-Bissau
+Liechtenstein
+Marshall Islands
+Myanmar (Burma)
+Netherlands
+New Zealand
+North Korea
+North Macedonia (Macedonia)
+Northern Ireland
+Papua New Guinea
+Philippines
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Sao Tome and Principe
+Saudi Arabia
+Sierra Leone
+Solomon Islands
+South Africa
+South Korea
+South Sudan
+Switzerland
+Trinidad and Tobago
+Turkmenistan
+United Arab Emirates
+United Kingdom
+United States
+Vatican City
+
+=======================
+2. Short country names (shorter than 5 characters): 
+Chad
+Cuba
+Fiji
+Iran
+Iraq
+Laos
+Mali
+Oman
+Peru
+Togo
+
+=======================
+3. Countries starting with letter "A"
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+
+=======================
+4. Country ending with 'land': 
+England
+Finland
+Iceland
+Ireland
+New Zealand
+Northern Ireland
+Poland
+Scotland
+Switzerland
+Thailand
+
+=======================
+5. Country containing 'United': 
+United Arab Emirates
+United Kingdom
+United States
+
+=======================
+6. Country ASCENDING order: 
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo, Democratic Republic of the
+Congo, Republic of the
+Costa Rica
+Cote d'Ivoire (Ivory Coast)
+Croatia
+Cuba
+Cyprus
+Czech Republic (Czechia)
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini (Swaziland)
+Ethiopia
+Federated States of Micronesia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia (Macedonia)
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wales
+Yemen
+Zambia
+Zimbabwe
+
+=======================
+7. Country DESCENDING ORDER: 
+Zimbabwe
+Zambia
+Yemen
+Wales
+Vietnam
+Venezuela
+Vatican City
+Vanuatu
+Uzbekistan
+Uruguay
+United States
+United Kingdom
+United Arab Emirates
+Ukraine
+Uganda
+Tuvalu
+Turkmenistan
+Turkey
+Tunisia
+Trinidad and Tobago
+Tonga
+Togo
+Thailand
+Tanzania
+Tajikistan
+Taiwan
+Syria
+Switzerland
+Sweden
+Suriname
+Sudan
+Sri Lanka
+Spain
+South Sudan
+South Korea
+South Africa
+Somalia
+Solomon Islands
+Slovenia
+Slovakia
+Singapore
+Sierra Leone
+Seychelles
+Serbia
+Senegal
+Scotland
+Saudi Arabia
+Sao Tome and Principe
+San Marino
+Samoa
+Saint Vincent and the Grenadines
+Saint Lucia
+Saint Kitts and Nevis
+Rwanda
+Russia
+Romania
+Qatar
+Portugal
+Poland
+Philippines
+Peru
+Paraguay
+Papua New Guinea
+Panama
+Palau
+Pakistan
+Oman
+Norway
+Northern Ireland
+North Macedonia (Macedonia)
+North Korea
+Nigeria
+Niger
+Nicaragua
+New Zealand
+Netherlands
+Nepal
+Nauru
+Namibia
+Myanmar (Burma)
+Mozambique
+Morocco
+Montenegro
+Mongolia
+Monaco
+Moldova
+Mexico
+Mauritius
+Mauritania
+Marshall Islands
+Malta
+Mali
+Maldives
+Malaysia
+Malawi
+Madagascar
+Luxembourg
+Lithuania
+Liechtenstein
+Libya
+Liberia
+Lesotho
+Lebanon
+Latvia
+Laos
+Kyrgyzstan
+Kuwait
+Kosovo
+Kiribati
+Kenya
+Kazakhstan
+Jordan
+Japan
+Jamaica
+Italy
+Israel
+Ireland
+Iraq
+Iran
+Indonesia
+India
+Iceland
+Hungary
+Honduras
+Haiti
+Guyana
+Guinea-Bissau
+Guinea
+Guatemala
+Grenada
+Greece
+Ghana
+Germany
+Georgia
+Gambia
+Gabon
+France
+Finland
+Fiji
+Federated States of Micronesia
+Ethiopia
+Eswatini (Swaziland)
+Estonia
+Eritrea
+Equatorial Guinea
+England
+El Salvador
+Egypt
+Ecuador
+East Timor
+Dominican Republic
+Dominica
+Djibouti
+Denmark
+Czech Republic (Czechia)
+Cyprus
+Cuba
+Croatia
+Cote d'Ivoire (Ivory Coast)
+Costa Rica
+Congo, Republic of the
+Congo, Democratic Republic of the
+Comoros
+Colombia
+China
+Chile
+Chad
+Central African Republic
+Cape Verde
+Canada
+Cameroon
+Cambodia
+Burundi
+Burkina Faso
+Bulgaria
+Brunei
+Brazil
+Botswana
+Bosnia and Herzegovina
+Bolivia
+Bhutan
+Benin
+Belize
+Belgium
+Belarus
+Barbados
+Bangladesh
+Bahrain
+Bahamas
+Azerbaijan
+Austria
+Australia
+Armenia
+Argentina
+Antigua and Barbuda
+Angola
+Andorra
+Algeria
+Albania
+Afghanistan
+
+=======================
+8. Country by Unique first letters: 
+A
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+B
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+C
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo, Democratic Republic of the
+Congo, Republic of the
+Costa Rica
+Cote d'Ivoire (Ivory Coast)
+Croatia
+Cuba
+Cyprus
+Czech Republic (Czechia)
+D
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+E
+East Timor
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini (Swaziland)
+Ethiopia
+F
+Federated States of Micronesia
+Fiji
+Finland
+France
+G
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+H
+Haiti
+Honduras
+Hungary
+I
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+J
+Jamaica
+Japan
+Jordan
+K
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+L
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+M
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar (Burma)
+N
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia (Macedonia)
+Northern Ireland
+Norway
+O
+Oman
+P
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Q
+Qatar
+R
+Romania
+Russia
+Rwanda
+S
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+T
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+U
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+V
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+W
+Wales
+Y
+Yemen
+Z
+Zambia
+Zimbabwe
+
+=======================
+9. Count of Countries:
+200 countries
+
+=======================
+10. Country with the longest NameCongo, Democratic Republic of the
+
+=======================
+11. Shortest country nameChad
+
+=======================
+12. Names in uppercase
+AFGHANISTAN
+ALBANIA
+ALGERIA
+ANDORRA
+ANGOLA
+ANTIGUA AND BARBUDA
+ARGENTINA
+ARMENIA
+AUSTRALIA
+AUSTRIA
+AZERBAIJAN
+BAHAMAS
+BAHRAIN
+BANGLADESH
+BARBADOS
+BELARUS
+BELGIUM
+BELIZE
+BENIN
+BHUTAN
+BOLIVIA
+BOSNIA AND HERZEGOVINA
+BOTSWANA
+BRAZIL
+BRUNEI
+BULGARIA
+BURKINA FASO
+BURUNDI
+CAMBODIA
+CAMEROON
+CANADA
+CAPE VERDE
+CENTRAL AFRICAN REPUBLIC
+CHAD
+CHILE
+CHINA
+COLOMBIA
+COMOROS
+CONGO, DEMOCRATIC REPUBLIC OF THE
+CONGO, REPUBLIC OF THE
+COSTA RICA
+COTE D'IVOIRE (IVORY COAST)
+CROATIA
+CUBA
+CYPRUS
+CZECH REPUBLIC (CZECHIA)
+DENMARK
+DJIBOUTI
+DOMINICA
+DOMINICAN REPUBLIC
+EAST TIMOR
+ECUADOR
+EGYPT
+EL SALVADOR
+ENGLAND
+EQUATORIAL GUINEA
+ERITREA
+ESTONIA
+ESWATINI (SWAZILAND)
+ETHIOPIA
+FEDERATED STATES OF MICRONESIA
+FIJI
+FINLAND
+FRANCE
+GABON
+GAMBIA
+GEORGIA
+GERMANY
+GHANA
+GREECE
+GRENADA
+GUATEMALA
+GUINEA
+GUINEA-BISSAU
+GUYANA
+HAITI
+HONDURAS
+HUNGARY
+ICELAND
+INDIA
+INDONESIA
+IRAN
+IRAQ
+IRELAND
+ISRAEL
+ITALY
+JAMAICA
+JAPAN
+JORDAN
+KAZAKHSTAN
+KENYA
+KIRIBATI
+KOSOVO
+KUWAIT
+KYRGYZSTAN
+LAOS
+LATVIA
+LEBANON
+LESOTHO
+LIBERIA
+LIBYA
+LIECHTENSTEIN
+LITHUANIA
+LUXEMBOURG
+MADAGASCAR
+MALAWI
+MALAYSIA
+MALDIVES
+MALI
+MALTA
+MARSHALL ISLANDS
+MAURITANIA
+MAURITIUS
+MEXICO
+MOLDOVA
+MONACO
+MONGOLIA
+MONTENEGRO
+MOROCCO
+MOZAMBIQUE
+MYANMAR (BURMA)
+NAMIBIA
+NAURU
+NEPAL
+NETHERLANDS
+NEW ZEALAND
+NICARAGUA
+NIGER
+NIGERIA
+NORTH KOREA
+NORTH MACEDONIA (MACEDONIA)
+NORTHERN IRELAND
+NORWAY
+OMAN
+PAKISTAN
+PALAU
+PANAMA
+PAPUA NEW GUINEA
+PARAGUAY
+PERU
+PHILIPPINES
+POLAND
+PORTUGAL
+QATAR
+ROMANIA
+RUSSIA
+RWANDA
+SAINT KITTS AND NEVIS
+SAINT LUCIA
+SAINT VINCENT AND THE GRENADINES
+SAMOA
+SAN MARINO
+SAO TOME AND PRINCIPE
+SAUDI ARABIA
+SCOTLAND
+SENEGAL
+SERBIA
+SEYCHELLES
+SIERRA LEONE
+SINGAPORE
+SLOVAKIA
+SLOVENIA
+SOLOMON ISLANDS
+SOMALIA
+SOUTH AFRICA
+SOUTH KOREA
+SOUTH SUDAN
+SPAIN
+SRI LANKA
+SUDAN
+SURINAME
+SWEDEN
+SWITZERLAND
+SYRIA
+TAIWAN
+TAJIKISTAN
+TANZANIA
+THAILAND
+TOGO
+TONGA
+TRINIDAD AND TOBAGO
+TUNISIA
+TURKEY
+TURKMENISTAN
+TUVALU
+UGANDA
+UKRAINE
+UNITED ARAB EMIRATES
+UNITED KINGDOM
+UNITED STATES
+URUGUAY
+UZBEKISTAN
+VANUATU
+VATICAN CITY
+VENEZUELA
+VIETNAM
+WALES
+YEMEN
+ZAMBIA
+ZIMBABWE
+
+=======================
+13. Countries with More Than One Word:
+Antigua and Barbuda
+Bosnia and Herzegovina
+Burkina Faso
+Cape Verde
+Central African Republic
+Congo, Democratic Republic of the
+Congo, Republic of the
+Costa Rica
+Cote d'Ivoire (Ivory Coast)
+Czech Republic (Czechia)
+Dominican Republic
+East Timor
+El Salvador
+Equatorial Guinea
+Eswatini (Swaziland)
+Federated States of Micronesia
+Marshall Islands
+Myanmar (Burma)
+New Zealand
+North Korea
+North Macedonia (Macedonia)
+Northern Ireland
+Papua New Guinea
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Sierra Leone
+Solomon Islands
+South Africa
+South Korea
+South Sudan
+Sri Lanka
+Trinidad and Tobago
+United Arab Emirates
+United Kingdom
+United States
+Vatican City
+
+=======================
+14. Country Names to Character Count:
+Afghanistan: 11
+Albania: 7
+Algeria: 7
+Andorra: 7
+Angola: 6
+Antigua and Barbuda: 19
+Argentina: 9
+Armenia: 7
+Australia: 9
+Austria: 7
+Azerbaijan: 10
+Bahamas: 7
+Bahrain: 7
+Bangladesh: 10
+Barbados: 8
+Belarus: 7
+Belgium: 7
+Belize: 6
+Benin: 5
+Bhutan: 6
+Bolivia: 7
+Bosnia and Herzegovina: 22
+Botswana: 8
+Brazil: 6
+Brunei: 6
+Bulgaria: 8
+Burkina Faso: 12
+Burundi: 7
+Cambodia: 8
+Cameroon: 8
+Canada: 6
+Cape Verde: 10
+Central African Republic: 24
+Chad: 4
+Chile: 5
+China: 5
+Colombia: 8
+Comoros: 7
+Congo, Democratic Republic of the: 33
+Congo, Republic of the: 22
+Costa Rica: 10
+Cote d'Ivoire (Ivory Coast): 27
+Croatia: 7
+Cuba: 4
+Cyprus: 6
+Czech Republic (Czechia): 24
+Denmark: 7
+Djibouti: 8
+Dominica: 8
+Dominican Republic: 18
+East Timor: 10
+Ecuador: 7
+Egypt: 5
+El Salvador: 11
+England: 7
+Equatorial Guinea: 17
+Eritrea: 7
+Estonia: 7
+Eswatini (Swaziland): 20
+Ethiopia: 8
+Federated States of Micronesia: 30
+Fiji: 4
+Finland: 7
+France: 6
+Gabon: 5
+Gambia: 6
+Georgia: 7
+Germany: 7
+Ghana: 5
+Greece: 6
+Grenada: 7
+Guatemala: 9
+Guinea: 6
+Guinea-Bissau: 13
+Guyana: 6
+Haiti: 5
+Honduras: 8
+Hungary: 7
+Iceland: 7
+India: 5
+Indonesia: 9
+Iran: 4
+Iraq: 4
+Ireland: 7
+Israel: 6
+Italy: 5
+Jamaica: 7
+Japan: 5
+Jordan: 6
+Kazakhstan: 10
+Kenya: 5
+Kiribati: 8
+Kosovo: 6
+Kuwait: 6
+Kyrgyzstan: 10
+Laos: 4
+Latvia: 6
+Lebanon: 7
+Lesotho: 7
+Liberia: 7
+Libya: 5
+Liechtenstein: 13
+Lithuania: 9
+Luxembourg: 10
+Madagascar: 10
+Malawi: 6
+Malaysia: 8
+Maldives: 8
+Mali: 4
+Malta: 5
+Marshall Islands: 16
+Mauritania: 10
+Mauritius: 9
+Mexico: 6
+Moldova: 7
+Monaco: 6
+Mongolia: 8
+Montenegro: 10
+Morocco: 7
+Mozambique: 10
+Myanmar (Burma): 15
+Namibia: 7
+Nauru: 5
+Nepal: 5
+Netherlands: 11
+New Zealand: 11
+Nicaragua: 9
+Niger: 5
+Nigeria: 7
+North Korea: 11
+North Macedonia (Macedonia): 27
+Northern Ireland: 16
+Norway: 6
+Oman: 4
+Pakistan: 8
+Palau: 5
+Panama: 6
+Papua New Guinea: 16
+Paraguay: 8
+Peru: 4
+Philippines: 11
+Poland: 6
+Portugal: 8
+Qatar: 5
+Romania: 7
+Russia: 6
+Rwanda: 6
+Saint Kitts and Nevis: 21
+Saint Lucia: 11
+Saint Vincent and the Grenadines: 32
+Samoa: 5
+San Marino: 10
+Sao Tome and Principe: 21
+Saudi Arabia: 12
+Scotland: 8
+Senegal: 7
+Serbia: 6
+Seychelles: 10
+Sierra Leone: 12
+Singapore: 9
+Slovakia: 8
+Slovenia: 8
+Solomon Islands: 15
+Somalia: 7
+South Africa: 12
+South Korea: 11
+South Sudan: 11
+Spain: 5
+Sri Lanka: 9
+Sudan: 5
+Suriname: 8
+Sweden: 6
+Switzerland: 11
+Syria: 5
+Taiwan: 6
+Tajikistan: 10
+Tanzania: 8
+Thailand: 8
+Togo: 4
+Tonga: 5
+Trinidad and Tobago: 19
+Tunisia: 7
+Turkey: 6
+Turkmenistan: 12
+Tuvalu: 6
+Uganda: 6
+Ukraine: 7
+United Arab Emirates: 20
+United Kingdom: 14
+United States: 13
+Uruguay: 7
+Uzbekistan: 10
+Vanuatu: 7
+Vatican City: 12
+Venezuela: 9
+Vietnam: 7
+Wales: 5
+Yemen: 5
+Zambia: 6
+Zimbabwe: 8
+
+=======================
+15. Country name that starts with "Z"
+Zambia
+Zimbabwe
+
+=======================
+16. Names longer than 3 characters:
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo, Democratic Republic of the
+Congo, Republic of the
+Costa Rica
+Cote d'Ivoire (Ivory Coast)
+Croatia
+Cuba
+Cyprus
+Czech Republic (Czechia)
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini (Swaziland)
+Ethiopia
+Federated States of Micronesia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia (Macedonia)
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wales
+Yemen
+Zambia
+Zimbabwe
